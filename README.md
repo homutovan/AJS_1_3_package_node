@@ -1,8 +1,8 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/bj9chvj1497l0dp6/branch/master?svg=true)](https://ci.appveyor.com/project/homutovan/ajs-1-2-2-modules/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/ajmsfym72weivobp/branch/master?svg=true)](https://ci.appveyor.com/project/homutovan/ajs-1-3-package-node/branch/master)
 
-# Домашнее задание к лекции «Модули»
+# Домашнее задание к лекции «Платформы: браузер vs Node.js»
 
-## Import/Export
+## Package node
 
 ### Installation
 
@@ -10,13 +10,13 @@
 npm install
 ```
 
-### Start Dev Server
+### Start
 
 ```
 npm start
 ```
 
-### Build Prod Version
+### Build
 
 ```
 npm run build

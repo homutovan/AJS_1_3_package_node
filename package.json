@@ -4,7 +4,8 @@
   "description": "ajs_1_3_package_node",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
